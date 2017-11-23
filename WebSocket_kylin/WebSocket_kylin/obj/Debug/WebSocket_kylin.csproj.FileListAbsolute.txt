@@ -1,0 +1,5 @@
+F:\VS代码\类库\WebSocket\WebSocket_kylin\WebSocket_kylin\bin\Debug\WebSocket_kylin.exe.config
+F:\VS代码\类库\WebSocket\WebSocket_kylin\WebSocket_kylin\bin\Debug\WebSocket_kylin.exe
+F:\VS代码\类库\WebSocket\WebSocket_kylin\WebSocket_kylin\bin\Debug\WebSocket_kylin.pdb
+F:\VS代码\类库\WebSocket\WebSocket_kylin\WebSocket_kylin\obj\Debug\WebSocket_kylin.exe
+F:\VS代码\类库\WebSocket\WebSocket_kylin\WebSocket_kylin\obj\Debug\WebSocket_kylin.pdb
