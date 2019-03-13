@@ -14,7 +14,7 @@ namespace WebSocket_kylin
         public DataFrame(byte[] buffer)
         {
             //帧头
-            _header = new DataFrameHeader(buffer); 
+            _header = new DataFrameHeader(buffer);
 
             //扩展长度
             if (_header.Length == 126)
