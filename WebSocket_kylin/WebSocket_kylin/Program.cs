@@ -16,7 +16,7 @@ namespace WebSocket_kylin
             server.Bind(new IPEndPoint(IPAddress.Any, 8081)); // 绑定IP+端口  
             server.Listen(100); // 开始监听  
 
-            Console.WriteLine("等待连接...");
+            Console.WriteLine("等待连接..."); 
 
             AcceptHelper ca = new AcceptHelper() { Bytes = new byte[2048] };
             IAsyncResult res = server.BeginAccept(new AsyncCallback(ca.AcceptTarget), server);
