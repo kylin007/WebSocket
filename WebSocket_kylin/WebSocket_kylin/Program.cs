@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace WebSocket_kylin
-{
+{//master
     class Program
     {
         static void Main(string[] args)
